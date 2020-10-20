@@ -1,0 +1,4 @@
+The unitTest will fail if the actions runs parallely.
+All actions should run sequentially.
+Actions should get executed in the same sequense as we have added to the class array.
+The actions can be added with some delay as one after another.
